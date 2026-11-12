@@ -1,0 +1,1 @@
+Repositorio de proyectos prácticos, estudios de caso y análisis de datos desarrollados en Python, enfocados en fundamentos de inteligencia artificial, análisis exploratorio (EDA) y modelado predictivo.
